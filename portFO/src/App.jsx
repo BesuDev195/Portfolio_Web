@@ -1,4 +1,5 @@
-
+import About from "./assets/components/About"
+import "./App.css"
 
 function App() {
   
@@ -6,7 +7,7 @@ function App() {
   return (
    
      <>
-     <h1>Besufekad Zenebe</h1>
+     <About/>
      </>
   )
 }
